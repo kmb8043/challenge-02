@@ -1,0 +1,44 @@
+
+header {
+    padding: 10px;
+    background-color: rgb(104, 94, 94);
+    font-family: serif;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: left;
+    padding: 2%;
+}
+
+body {
+    padding: 20px;
+    justify-content: space-evenly;
+    display: inline;
+    line-height: 1.5;
+
+    background-color: whitesmoke;
+}
+
+h1 {
+    display: inline-block;
+    font-size: 35px;
+    background-color: rgb(78, 136, 163);
+    color: black;
+}
+nav ul {
+    background-color: rgb(104, 94, 94);
+    color: rgb(78, 136, 163);
+    font-size: 20px;
+    text-decoration: underline;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+}
+
+footer {
+    text-align: center;
+    color: black;
+    background-color: rgb(104, 94, 94);
+}
